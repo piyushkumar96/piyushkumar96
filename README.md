@@ -1,12 +1,11 @@
 <div align="center">
- <h2><i> Hey  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></i>𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img align="right" src="https://github.com/piyushkumar96/piyushkumar96/blob/main/assets/Developer.gif" width="200px"></h2>
+ <h2><i> Hey  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></i>𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img align="right" src="https://github.com/piyushkumar96/piyushkumar96/blob/main/assets/Developer.gif" width="150px"></h2>
 </div>
 
 <div align="center">
 
 <h3>I'm <a href="https://piyushkumar96.github.io"> Piyush Kumar </a>, a Cutting Edge & Open Source Technologies <br/> Contributor, Learner & Lover 😊</h3>
 
-<br/>
 
 <h5><i>🔭 I'm currently Senior Engineer, Blockchain Innovation Team, Bosch, Bengaluru. I had completed B.E. in Computer Science & Engineering from Birla Institute Of Technology, Mesra, Ranchi, Jharkhand. 
 
