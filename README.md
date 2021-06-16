@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/piyushkumar96/piyushkumar96/blob/main/assets/Developer.gif" width="200px">
+</p>
 <div align="center">
  <h2><i> Hey  👋</i>, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
