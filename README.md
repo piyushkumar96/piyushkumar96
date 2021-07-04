@@ -56,7 +56,7 @@ Ask me anything by<a href="mailto:mailto.piyush25032@gmail.com"><b> email</b></a
 <a href="https://piyushkumar96.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/-Portfolio%20Website-red alt=Portfolio-Website style="margin-bottom: 5px;" />
 </a>
-<a href="https://drive.google.com/file/d/12m5cc4gXSGvSaOeeL3Y5Ws8DcEZ3H4GA/view?usp=drivesdk" target="_blank">
+<a href="https://drive.google.com/file/d/1H7SCCsJgCmzwNOmJU_J_7slSdpdJYQgH/view?usp=drivesdk" target="_blank">
 <img src=https://img.shields.io/badge/-Resume-purple alt=Resume style="margin-bottom: 5px;" />
 </a>
 
