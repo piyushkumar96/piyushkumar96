@@ -7,7 +7,7 @@
 <h3>I'm <a href="https://piyushkumar96.github.io"> Piyush Kumar </a>, a Cutting Edge & Open Source Technologies <br/> Contributor, Learner & Lover 😊</h3>
 
 
-<h5><i>🔭 I'm currently Senior Engineer, Blockchain Innovation Team, Bosch, Bengaluru. I had completed B.E. in Computer Science & Engineering from Birla Institute Of Technology, Mesra, Ranchi, Jharkhand. 
+<h5><i>🔭 I'm currently Senior Software Engineer, Streaming TV Team, Amagi Corporation, Bengaluru. I had completed B.E. in Computer Science & Engineering from Birla Institute Of Technology, Mesra, Ranchi, Jharkhand. 
 
 I have various certifications like Redhat Certified Engineer, Certified Blockchain Expert (Blockchain Council), Blockchain Specialization Certified, Version Control GIT Certified, etc. 
 
@@ -56,7 +56,7 @@ Ask me anything by<a href="mailto:mailto.piyush25032@gmail.com"><b> email</b></a
 <a href="https://piyushkumar96.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/-Portfolio%20Website-red alt=Portfolio-Website style="margin-bottom: 5px;" />
 </a>
-<a href="https://drive.google.com/file/d/1H7SCCsJgCmzwNOmJU_J_7slSdpdJYQgH/view?usp=drivesdk" target="_blank">
+<a href="https://drive.google.com/file/d/15hnGDWXA_hJ2lhQIK44yIRk6hKxPfusR/view?usp=sharing" target="_blank">
 <img src=https://img.shields.io/badge/-Resume-purple alt=Resume style="margin-bottom: 5px;" />
 </a>
 
