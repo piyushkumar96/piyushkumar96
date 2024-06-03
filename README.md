@@ -7,11 +7,11 @@
 <h3>I'm <a href="https://piyushkumar96.github.io"> Piyush Kumar </a>, a Cutting Edge & Open Source Technologies <br/> Contributor, Learner & Lover 😊</h3>
 
 
-<h5><i>🔭 I'm currently Senior Software Engineer, Streaming TV Team, Amagi Corporation, Bengaluru. I had completed B.E. in Computer Science & Engineering from Birla Institute Of Technology, Mesra, Ranchi, Jharkhand. 
+<h5><i>🔭 I'm currently Staff Software Engineer, ADAP Team, Amagi Corporation, Bengaluru. I had completed B.E. in Computer Science & Engineering from Birla Institute Of Technology, Mesra, Ranchi, Jharkhand. 
 
 I have various certifications like Redhat Certified Engineer, Certified Blockchain Expert (Blockchain Council), Blockchain Specialization Certified, Version Control GIT Certified, etc. 
 
-I won SPOT Award 2020 (Bosch): For Improving Productivity in the team using Latest and cutting edge
+I won SPOT Award 2023 (Amagi), SPOT Award 2020 (Bosch): For Improving Productivity in the team using Latest and cutting edge
 technologies. Quarterly Awards 2018 (Zenlabs, Zensar, RPG): For outstanding contributions and commitment to the company. 
 
 I am also good at Data Structure & Algorithm, Programming, MEAN Stack, Blockchain, Cloud Computing, Linux, Virtualization, Databases, DevOps, etc. I am very eager to know and learn about new technologies and love to work with them.
