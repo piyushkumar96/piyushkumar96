@@ -7,7 +7,7 @@
 <h3>I'm <a href="https://piyushkumar96.github.io"> Piyush Kumar </a>, a Cutting Edge & Open Source Technologies <br/> Contributor, Learner & Lover 😊</h3>
 
 
-<h5><i>🔭 I'm currently Staff Software Engineer, ADAP Team, Amagi Corporation, Bengaluru. I had completed B.E. in Computer Science & Engineering from Birla Institute Of Technology, Mesra, Ranchi, Jharkhand. 
+<h5><i>🔭 I'm currently Software Development Lead, ADAP Team, Amagi Corporation, Bengaluru. I had completed B.E. in Computer Science & Engineering from Birla Institute Of Technology, Mesra, Ranchi, Jharkhand. 
 
 I have various certifications like Redhat Certified Engineer, Certified Blockchain Expert (Blockchain Council), Blockchain Specialization Certified, Version Control GIT Certified, etc. 
 
